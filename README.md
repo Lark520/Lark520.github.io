@@ -1,2 +1,2 @@
 # Lark520.github.io
-Lark520.com
+Lark520.github.io
